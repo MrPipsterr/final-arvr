@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pipsterr" size="4.000000 4.000000" />
+    <ImageTarget name="speed" size="7.000000 3.589172" />
+    <ImageTarget name="ishowspeed" size="10.000000 5.127388" />
+  </Tracking>
+</QCARConfig>
